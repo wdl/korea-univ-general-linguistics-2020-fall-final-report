@@ -1,0 +1,11 @@
+{
+  "name": "korea-univ-general-linguistics-2020-fall-final-report",
+  "version": "1.0.0",
+  "description": "For my final report :D",
+  "author": "BANG HYUNWOONG",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
